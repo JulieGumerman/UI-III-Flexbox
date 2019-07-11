@@ -436,12 +436,10 @@ figure {
 
 	figure {
 		width: 30%;
-		border: red 1px solid;
 	}
 
 	figure a img {
 		width: 100%;
-		border: red 1px solid;
 	}
 
 	.header-nav .container {
