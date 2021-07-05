@@ -177,13 +177,14 @@ header {
 	background: #00ff99;
 }
 
+.content-wrapper{
+	width: 85%;
+	margin: 0 auto;
+}
+
 
 /*********main sections*************/
 
-.top{
-	border-top: 1px solid black;
-	
-}
 
 .bottom {
 	border-bottom: 3px solid #204060;;
@@ -436,12 +437,10 @@ figure {
 
 	figure {
 		width: 30%;
-		border: red 1px solid;
 	}
 
 	figure a img {
 		width: 100%;
-		border: red 1px solid;
 	}
 
 	.header-nav .container {
